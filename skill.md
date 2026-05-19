@@ -1,10 +1,6 @@
 ---
 name: image-copywriter
-description: >-
-  基于图片真实信息，智能生成多平台适配的产品文案。精准识别产品外观、材质、细节与场景亮点，
-  根据发布平台与风格偏好，输出自然流畅、无AI生硬感的优质文案。
-  唤醒语：图片文案生成、产品文案创作、小红书文案、朋友圈带货文案、电商详情文案、私域带货文案、
-  image copywriting, product description, social media copy, 小红书种草文案
+description: 基于图片真实信息，智能生成多平台适配的产品文案。精准识别产品外观、材质、细节与场景亮点，根据发布平台与风格偏好，输出自然流畅、无AI生硬感的优质文案。唤醒语：图片文案生成、产品文案创作、小红书文案、朋友圈带货文案、电商详情文案、私域带货文案、image copywriting, product description, social media copy, 小红书种草文案
 ---
 
 # 图片文案生成助手
